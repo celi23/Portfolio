@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Project Overview
+title: Huijie (Cecilia) Li
 permalink: /
 exclude: true
 ---
 
-
-# Huijie (Cecilia) Li
-This is the portfolio page for Cecilia Li, a 22 year old general engineering major graduated from Harvey Mudd College. Bellow shows the projects I have worked on.
+This is the portfolio page for Cecilia Li, a 22 year old general engineering major graduated from Harvey Mudd College. Below shows the projects I have worked on.
 
 
 
