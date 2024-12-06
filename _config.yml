@@ -5,6 +5,6 @@ address: Brea, California
 theme: minima
 
 header-pages:
-  - resume.html
-  - projects.html
-  - resources.html
+  - individualprojects.html
+  - clinicprojects.html
+  - labprojects.html
