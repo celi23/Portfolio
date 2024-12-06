@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Clinic Project
+title: Clinic Projects
 permalink: /clinicprojects/
 ---
