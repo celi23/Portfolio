@@ -1,22 +1,9 @@
 # Configuration Options
-title: FA23 MicroPs Final Project - An A-Maze-ing Game!
-author: "Lawrence Nelson, Cecilia Li, Martin Susanto"
+title: Cecilia Li Engineering Portfolio
+author: "Cecilia Li"
 theme: minima
 
 header-pages:
-  - design.html
-  - documentation.html
+  - resume.html
+  - projects.html
   - resources.html
-
-
-# Github Pages settings that cannot be changed
-# lsi: false
-# safe: true
-# source: https://github.com/LawrenceNel/FA23-E155-A-MAZE-ing-Game-Project.git
-# incremental: false
-# highlighter: rouge
-# gist:
-#   noscript: false
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
