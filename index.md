@@ -14,12 +14,11 @@ Contact me! My email is: li.cecilia23@gmail.com
 Below are some of my team and individual projects. [(details)](https://celi23.github.io/Portfolio/individualprojects)
 
 #### A-Mazing Game: 
+This is a project made with two other teammates in an effort to make an arcade game that is playable by a Wii Nunchuck. This is a maze game allows the user to direct a dot to the end of the maze, giving scores for the time the user takes. The team wrote the driver for the LED matrix, Wii Nunchuck, and the connection between the MCU and the FPGA.
 <div style="text-align: left">
   <img src="./assets/img/cabinet2.jpg" alt="logo" height="200" />
   <img src="./assets/img/cabinet1.jpg" alt="logo" height="200" />
 </div>
-
-This is a project made with two other teammates in an effort to make an arcade game that is playable by a Wii Nunchuck. This is a maze game allows the user to direct a dot to the end of the maze, giving scores for the time the user takes. The team wrote the driver for the LED matrix, Wii Nunchuck, and the connection between the MCU and the FPGA.
 
 #### Jacket Indicator:
 <div style="text-align: center">
