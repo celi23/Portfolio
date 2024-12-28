@@ -4,7 +4,7 @@ title: Clinic Projects
 permalink: /clinicprojects/
 ---
 
-## Project Pyramid:
+#### Project Pyramid:
 
 
-## Ultra-High Vacuum Inspection Wafer:
+#### Ultra-High Vacuum Inspection Wafer:

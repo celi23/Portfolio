@@ -4,7 +4,7 @@ title: Lab Research Projects
 permalink: /labprojects/
 ---
 
-## GSG friction data analyzation:
+#### GSG friction data analyzation:
 
 
-## Water filtration system research and design:
+#### Water filtration system research and design:
