@@ -1,7 +1,7 @@
 # Configuration Options
 title: Engineering Portfolio
-# author: "Cecilia Li"
-# address: Brea, California
+author: "Cecilia Li"
+address: Brea, California
 theme: minima
 
 header-pages:

@@ -65,8 +65,7 @@ These are projects I participated with preisting labs. [(details)](https://celi2
 
 #### GSG friction data analyzation:
 <div style="text-align: center">
-  <img src="./assets/img/kraussresearch.jpg" alt="logo" height="200" />
-  <img src="./assets/img/kraussresearch.jpg" alt="logo" height="200" />
+  <img src="./assets/img/krauss.jpg" alt="logo" height="200" />
 </div>
 
 Worked with a new substance called Gas Phase Synthesized Graphene using tribometer to observe its wear reducing effects along with PAO (Polyalphaolefin). Used ImageJ and Python to process and analyze images of the substance to correlate with experimental results of wear volume and frictional force.
@@ -74,7 +73,7 @@ Worked with a new substance called Gas Phase Synthesized Graphene using tribomet
 #### Water filtration system research and design:
 <div style="text-align: center">
   <img src="./assets/img/waterfilter.jpg" alt="logo" height="200" />
-  <img src="./assets/img/waterfilter.jpg" alt="logo" height="200" />
+  <img src="./assets/img/galelab.jpg" alt="logo" height="200" />
 </div>
 
 Researched the financial and technical hardships with water filtration systems in the water industry. Designed and simulated a Rapid Small Scale Column testing site with COMSOL with porous media study in a stationary and a time dependent model, created process router for this design. 
