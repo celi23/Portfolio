@@ -5,6 +5,8 @@ permalink: /individualprojects/
 ---
 
 #### A-Mazing Game: 
+[See it in action!](https://www.youtube.com/watch?v=Vm8TDvq7yHE&ab_channel=Antrym)
+
 [Documentation](https://martin5009.github.io/amazing_game/design/)
 
 #### Jacket Indicator:
