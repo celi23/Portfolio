@@ -4,6 +4,8 @@ title: Individual Projects
 permalink: /individualprojects/
 ---
 
+# Working in progress! 
+
 ### A-Mazing Game: 
 [See it in action!](https://www.youtube.com/watch?v=Vm8TDvq7yHE&ab_channel=Antrym)
 
@@ -17,25 +19,20 @@ Credits to my teammates: Lawrence Nelson and Martin Susanto.
 In this project, we used an LED matrix to indicate if the user will need a jacket or not. With percise values of resistors, it allows the lights to light up differently as the thermistor attached reaches different temperatures. The circuit diagram is attached below, modeled in FALSTAD.
 
 <div style="text-align: center">
-  <img src="./assets/img/LED.jpg" alt="logo" height="300" />
+  <img src="../assets/img/LED.jpg" alt="logo" height="300" />
 </div>
 
 Above shows the LED matrix simulation.
 
 <div style="text-align: center">
-  <img src="../assets/img/wheatstone.jpg" alt="logo" height="200" />
+  <img src="../assets/img/wheatstone.jpg" alt="logo" height="300" />
+  <img src="../assets/img/amp.jpg" alt="logo" height="300" />
 </div>
 
-Above shows the wheatstone bridge that connects to the thermistor so we can have the desired voltage output to have appropriate voltage to the LED matrix.
+Above on the left shows the wheatstone bridge that connects to the thermistor so we can have the desired voltage output to have appropriate voltage to the LED matrix. On the right shows the amplifier to connect the wheatstone bridge of thermistor to th einput of the LEDs.
 
 <div style="text-align: center">
-  <img src="../assets/img/amp.jpg" alt="logo" height="200" />
-</div>
-
-Above shows the amplifier to connect the wheatstone bridge of thermistor to th einput of the LEDs.
-
-<div style="text-align: center">
-  <img src="../assets/img/together.jpg" alt="logo" height="200" />
+  <img src="../assets/img/together.jpg" alt="logo" height="400" />
 </div>
 
 Above shows the circuit all put together. As seen in the video, it works as we expects.

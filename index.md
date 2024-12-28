@@ -72,8 +72,8 @@ Worked with a new substance called Gas Phase Synthesized Graphene using tribomet
 
 #### Water filtration system research and design:
 <div style="text-align: center">
-  <img src="./assets/img/waterfilter.jpg" alt="logo" height="200" />
-  <img src="./assets/img/galelab.jpg" alt="logo" height="200" />
+  <img src="./assets/img/waterfilter.jpg" alt="logo" height="300" />
+  <img src="./assets/img/galelab.jpg" alt="logo" height="300" />
 </div>
 
 Researched the financial and technical hardships with water filtration systems in the water industry. Designed and simulated a Rapid Small Scale Column testing site with COMSOL with porous media study in a stationary and a time dependent model, created process router for this design. 
