@@ -8,6 +8,8 @@ exclude: true
 This is the portfolio page for Cecilia Li, a 22 year old general engineering major graduated from Harvey Mudd College. Below shows the projects I have worked on. You can click on each of the project categories to see the details and documentations.
 Here is my [LinkedIn](https://www.linkedin.com/in/cecilia-huijie-li-722222243/).
 
+Contact me! My email is: li.cecilia23@gmail.com
+
 # Team and Individual Projects 
 Below are some of my team and individual projects. [(details)](https://celi23.github.io/Portfolio/individualprojects)
 
