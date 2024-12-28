@@ -9,3 +9,25 @@ header-pages:
   - clinicprojects.html
   - labprojects.html
   - resume.html
+
+# Configuration Options
+# title: FA23 MicroPs Final Project - An A-Maze-ing Game!
+# author: "Lawrence Nelson, Cecilia Li, Martin Susanto"
+# theme: minima
+
+# header-pages:
+#   - design.html
+#   - documentation.html
+#   - resources.html
+
+# Github Pages settings that cannot be changed
+# lsi: false
+# safe: true
+# source: https://github.com/LawrenceNel/FA23-E155-A-MAZE-ing-Game-Project.git
+# incremental: false
+# highlighter: rouge
+# gist:
+#   noscript: false
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge
