@@ -23,19 +23,19 @@ In this project, we used an LED matrix to indicate if the user will need a jacke
 Above shows the LED matrix simulation.
 
 <div style="text-align: center">
-  <img src="./assets/img/wheatstone.jpg" alt="logo" height="200" />
+  <img src="../assets/img/wheatstone.jpg" alt="logo" height="200" />
 </div>
 
 Above shows the wheatstone bridge that connects to the thermistor so we can have the desired voltage output to have appropriate voltage to the LED matrix.
 
 <div style="text-align: center">
-  <img src="./assets/img/amp.jpg" alt="logo" height="200" />
+  <img src="../assets/img/amp.jpg" alt="logo" height="200" />
 </div>
 
 Above shows the amplifier to connect the wheatstone bridge of thermistor to th einput of the LEDs.
 
 <div style="text-align: center">
-  <img src="./assets/img/together.jpg" alt="logo" height="200" />
+  <img src="../assets/img/together.jpg" alt="logo" height="200" />
 </div>
 
 Above shows the circuit all put together. As seen in the video, it works as we expects.
