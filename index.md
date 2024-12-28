@@ -31,7 +31,7 @@ Designed and created a circuit that allows the user to see if the weather needs 
   <img src="./assets/img/underwaterRobot.jpg" alt="logo" height="200" />
 </div>
 
-The team designed an underwater robot that uses sonar to detect the depth of the water below it, along with GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce predicted data from real time deployment
+The team designed an underwater robot that uses sonar to detect the depth of the water below it, along with GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce predicted data from real time deployment.
 
 #### AllAboutPC:
 <div style="text-align: center">
