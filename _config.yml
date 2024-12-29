@@ -1,5 +1,5 @@
 # Configuration Options
-title: Engineering Portfolio
+# title: Engineering Portfolio
 author: "Cecilia Li -- li.cecilia23@gmail.com"
 # address: Brea, California
 theme: minima
@@ -9,8 +9,6 @@ header-pages:
   - clinicprojects.html
   - labprojects.html
   - resume.html
-  - amazinggame.html
-  - 
 
 # Configuration Options
 # title: FA23 MicroPs Final Project - An A-Maze-ing Game!

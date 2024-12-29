@@ -37,12 +37,15 @@ Above on the left shows the wheatstone bridge that connects to the thermistor so
 
 Above shows the circuit all put together. A resistor value of about 13kOhms, corresponding to about 17 degree Celcius, turns on 4 of the 7 lights. As seen in the video, it works as we expects. Because of time constraints, we were unable to put this breadboarded circuit into a protoboard. 
 
-
-
 Credits to my teammate: Brayden Hedrick.
 
 ### Underwater Robot:
+The project focuses on creating a underwater robot that can detect depth using sonar. With that data, GPS, and thermistor, the team's goal was to produce a map of the ocean at deployment with its depth and temperature. 
 
+The team first brainstormed
+
+
+Credits to my teammate: Alec Veryssu, Ruby Foxal.
 
 ### AllAboutPC:
 [See it in action!](https://www.youtube.com/watch?v=Fm7WJDabT0c&ab_channel=CeciliaLi)
