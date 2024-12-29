@@ -2,6 +2,7 @@
 layout: page
 title: Lab Research Projects
 permalink: /labprojects/
+exclude: true
 ---
 # Working in progress!
 

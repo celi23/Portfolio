@@ -2,6 +2,7 @@
 layout: page
 title: Clinic Projects
 permalink: /clinicprojects/
+exclude: true
 ---
 # Working in progress!
 

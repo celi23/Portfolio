@@ -12,13 +12,13 @@ exclude: true
 
 This is the portfolio page for Cecilia Li, a 22 year old general engineering major recently graduated from Harvey Mudd College. I concenterated in electronics engineering during college. In my free time, I like to climb, read, do small DIY projects, and make costumes for cartoon characters. 
 
-Below shows the projects I have worked on. You can click on each of the project categories to see the details and documentations. Here is my [LinkedIn](https://www.linkedin.com/in/cecilia-huijie-li-722222243/).
+Below shows the projects I have worked on. You can click on some of the project categories to see the details and documentations. Here is my [LinkedIn](https://www.linkedin.com/in/cecilia-huijie-li-722222243/).
 
 Contact me! My email is: li.cecilia23@gmail.com.
 
 # Clinic Projects 
 
-These projects are clinic projects done in collaboration with cooporate companies. [(details)](https://celi23.github.io/Portfolio/clinicprojects)
+These projects are clinic projects done in collaboration with cooporate companies.
 
 #### Project Pyramid:
 This project focuses on the automation of the production of the products. The team explored new and existing ideas of automation and aimed to produce an automated manufacturing system. The team also helped using alternative solutions to reduce water on the production line. I focused on producing new ideas on automation, and construction low resolution prototypes for automation systems. I worked on designing and constructing a fluidized bed for the production line.
@@ -39,7 +39,7 @@ In this project, I lead and managed the team with logistics such as budgeting, t
 Working with Applied Materials, the team was able to experience industry working environment. We presented our prototype to our school and our liaisons. 
 
 # Lab Research Projects 
-These are projects I participated with preisting labs. [(details)](https://celi23.github.io/Portfolio/labprojects)
+These are projects I participated with preisting labs.
 
 #### GSG friction data analyzation:
 In this lab, I worked with a new substance called Gas Phase Synthesized Graphene using tribometer to observe its wear reducing effects along with PAO (Polyalphaolefin). I used ImageJ and Python to process and analyze images of the substance to correlate with experimental results of wear volume and frictional force.
@@ -51,9 +51,9 @@ In this lab, I worked with a new substance called Gas Phase Synthesized Graphene
 The image above shows how the image of the GSG seperated with PAO is processed with ImageJ. It is able to count the amount of clumbs seen from the picture taken. This allows us to quantify the seperation and effetively test seperation of GSG and PAO over time. 
 
 # Team and Individual Projects
-Below are some of my team and individual projects. [(details)](https://celi23.github.io/Portfolio/individualprojects)
+Below are some of my team and individual projects.
 
-#### A-Mazing Game: 
+#### [A-Mazing Game](https://celi23.github.io/Portfolio/amazinggame): 
 This is a project made with two other teammates in an effort to make an arcade game that is playable by a Wii Nunchuck. This is a maze game that allows the user to direct a dot to the end of the maze, tracking scores for the time the user takes. The team wrote the driver for the LED matrix, Wii Nunchuck, and the connection between the MCU and the FPGA.
 
 <div style="text-align: left">
@@ -61,7 +61,7 @@ This is a project made with two other teammates in an effort to make an arcade g
   <img src="./assets/img/cabinet1.jpg" alt="logo" height="200" />
 </div>
 
-The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game! The team also created a website that contains all our documentation. [Check it out here!](https://martin5009.github.io/amazing_game/design/)
+The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game! The team also created a website that contains all our documentation. [Check it out here!](https://martin5009.github.io/amazing_game)
 
 #### Jacket Indicator
 Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the thermistor senses.

@@ -2,6 +2,7 @@
 layout: page
 title: Individual Projects
 permalink: /individualprojects/
+exclude: true
 ---
 
 # Working in progress! 
