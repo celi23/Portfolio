@@ -5,49 +5,55 @@ permalink: /
 exclude: true
 ---
 
-This is the portfolio page for Cecilia Li, a 22 year old general engineering major graduated from Harvey Mudd College. I concenterated in electronics engineering. In my free time, I like to climb, read, do small DIY projects, and make costumes for cartoon characters. Below shows the projects I have worked on. You can click on each of the project categories to see the details and documentations.
-Here is my [LinkedIn](https://www.linkedin.com/in/cecilia-huijie-li-722222243/).
+This is the portfolio page for Cecilia Li, a 22 year old general engineering major recently graduated from Harvey Mudd College. I concenterated in electronics engineering during college. In my free time, I like to climb, read, do small DIY projects, and make costumes for cartoon characters. 
 
-Contact me! My email is: li.cecilia23@gmail.com
+Below shows the projects I have worked on. You can click on each of the project categories to see the details and documentations. Here is my [LinkedIn](https://www.linkedin.com/in/cecilia-huijie-li-722222243/).
+
+Contact me! My email is: li.cecilia23@gmail.com.
 
 # Team and Individual Projects
 Below are some of my team and individual projects. [(details)](https://celi23.github.io/Portfolio/individualprojects)
 
 #### A-Mazing Game: 
-This is a project made with two other teammates in an effort to make an arcade game that is playable by a Wii Nunchuck. This is a maze game allows the user to direct a dot to the end of the maze, giving scores for the time the user takes. The team wrote the driver for the LED matrix, Wii Nunchuck, and the connection between the MCU and the FPGA.
+This is a project made with two other teammates in an effort to make an arcade game that is playable by a Wii Nunchuck. This is a maze game that allows the user to direct a dot to the end of the maze, tracking scores for the time the user takes. The team wrote the driver for the LED matrix, Wii Nunchuck, and the connection between the MCU and the FPGA.
 
 <div style="text-align: left">
   <img src="./assets/img/cabinet2.jpg" alt="logo" height="200" />
   <img src="./assets/img/cabinet1.jpg" alt="logo" height="200" />
 </div>
 
-The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly.
+The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game!
 
-#### Jacket Indicator:
-
-Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the temperature sensor determines.
+#### Jacket Indicator
+Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the thermistor senses.
 
 <div style="text-align: center">
   <img src="./assets/img/jacketIndicator.jpg" alt="logo" height="300" />
 </div>
 
+This project was done on a breadboard with enough schematic to incorporate into a protoboard.
+
 
 #### Underwater Robot:
-
-The team designed an underwater robot that uses sonar to detect the depth of the water below it, along with GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce predicted data from real time deployment.
+With two other classmates, the team designed an underwater robot that uses sonar to detect the depth of the water below it. This robot also has  GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce data from real time deployment.
 
 <div style="text-align: center">
   <img src="./assets/img/underwaterRobot.jpg" alt="logo" height="200" />
   <img src="./assets/img/robotstructure.jpg" alt="logo" height="200" />
 </div>
 
-#### AllAboutPC:
+<br>
 
+This robot was deployed in Dana point, California and produced data from the deployment. Seen on the left, we were waiting for the GPS to lock looking at the ocean. The structure of the robot is seen on the right.
+
+#### AllAboutPC:
 Designed a website called AllAboutPC that allows user login, a backend database that contains user information, and a platform that allows users to ask other users questions about PC. Used and learned different web building techniques including React, HTML, and CSS.
 
 <div style="text-align: center">
   <img src="./assets/img/Allaboutpc.jpg" alt="logo" height="300" />
 </div>
+
+This picture shows the
 
 # Clinic Projects 
 These projects are clinic projects done in collaboration with cooporate companies. [(details)](https://celi23.github.io/Portfolio/clinicprojects)
