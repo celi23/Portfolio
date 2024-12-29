@@ -5,8 +5,7 @@ permalink: /jacketindicator/
 exclude: true
 ---
 
-### Jacket Indicator:
-[See it in action!](https://www.youtube.com/watch?v=NSoUq3j5nXU&ab_channel=CeciliaLi)
+# [See it in action!](https://www.youtube.com/watch?v=NSoUq3j5nXU&ab_channel=CeciliaLi)
 
 In this project, we used an LED matrix to indicate if the user will need a jacket or not. With percise values of resistors, it allows the lights to light up differently as the thermistor attached reaches different temperatures. The circuit diagram is attached below, modeled in FALSTAD.
 
