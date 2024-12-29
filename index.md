@@ -4,11 +4,11 @@ title: Huijie (Cecilia) Li
 permalink: /
 exclude: true
 ---
-<style>
+<!-- <style>
 #title{
   font-weight:bold;
   }
-</style>
+</style> -->
 
 This is the portfolio page for Cecilia Li, a 22 year old general engineering major recently graduated from Harvey Mudd College. I concenterated in electronics engineering during college. In my free time, I like to climb, read, do small DIY projects, and make costumes for cartoon characters. 
 
@@ -16,11 +16,7 @@ Below shows the projects I have worked on. You can click on each of the project 
 
 Contact me! My email is: li.cecilia23@gmail.com.
 
-<div id = "title">
-
 # Clinic Projects 
-
-</div>
 
 These projects are clinic projects done in collaboration with cooporate companies. [(details)](https://celi23.github.io/Portfolio/clinicprojects)
 
