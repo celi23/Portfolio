@@ -14,7 +14,7 @@ Contact me! My email is: li.cecilia23@gmail.com.
 # Team and Individual Projects
 Below are some of my team and individual projects.
 
-#### [A-Mazing Game](https://celi23.github.io/Portfolio/amazinggame)
+#### [A-Mazing Game](https://celi23.github.io/Portfolio/amazinggame):
 This is a project made with two other teammates in an effort to make an arcade game that is playable by a Wii Nunchuck. This is a maze game that allows the user to direct a dot to the end of the maze, tracking scores for the time the user takes. The team wrote the driver for the LED matrix, Wii Nunchuck, and the connection between the MCU and the FPGA.
 
 <div style="text-align: left">
@@ -24,7 +24,7 @@ This is a project made with two other teammates in an effort to make an arcade g
 
 The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game! The team also created a website that contains all our documentation. [Check it out here!](https://martin5009.github.io/amazing_game)
 
-#### [Jacket Indicator](https://celi23.github.io/Portfolio/jacketindicator)
+#### [Jacket Indicator](https://celi23.github.io/Portfolio/jacketindicator):
 Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the thermistor senses.
 
 <div style="text-align: center">
