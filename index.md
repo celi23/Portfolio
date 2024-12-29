@@ -11,6 +11,39 @@ Below shows the projects I have worked on. You can click on each of the project 
 
 Contact me! My email is: li.cecilia23@gmail.com.
 
+# Clinic Projects 
+These projects are clinic projects done in collaboration with cooporate companies. [(details)](https://celi23.github.io/Portfolio/clinicprojects)
+
+#### Project Pyramid:
+This project focuses on the automation of the production of the products. The team explored new and existing ideas of automation and aimed to produce an automated manufacturing system. The team also helped using alternative solutions to reduce water on the production line. I focused on producing new ideas on automation, and construction low resolution prototypes for automation systems. I worked on designing and constructing a fluidized bed for the production line.
+
+<div style="text-align: center">
+  <img src="./assets/img/projectp.jpg" alt="logo" height="200" />
+</div>
+
+Above is the logo for the project. Unfortunately, because of NDA reasons, the company is undisclosed to the public.
+
+#### Ultra-High Vacuum Inspection Wafer:
+In this project, I lead and managed the team with logistics such as budgeting, team dynamic, and work progression in the latter half of the project. We utilized Bluetooth Low Energy nimble server and client protocol to send data in short distances. The team engaged in full system design, connecting and integrating subsystems using microcontroller, temperature sensors, and several cameras.
+
+<div style="text-align: center">
+  <img src="./assets/img/appliedmateriallogo.jpg" alt="logo" height="200" />
+</div>
+
+Working with Applied Materials, the team was able to experience industry working environment. We presented our prototype to our school and our liaisons. 
+
+# Lab Research Projects 
+These are projects I participated with preisting labs. [(details)](https://celi23.github.io/Portfolio/labprojects)
+
+#### GSG friction data analyzation:
+In this lab, I worked with a new substance called Gas Phase Synthesized Graphene using tribometer to observe its wear reducing effects along with PAO (Polyalphaolefin). I used ImageJ and Python to process and analyze images of the substance to correlate with experimental results of wear volume and frictional force.
+
+<div style="text-align: center">
+  <img src="./assets/img/krauss.jpg" alt="logo" height="200" />
+</div>
+
+The image above shows how the image of the GSG seperated with PAO is processed with ImageJ. It is able to count the amount of clumbs seen from the picture taken. This allows us to quantify the seperation and effetively test seperation of GSG and PAO over time. 
+
 # Team and Individual Projects
 Below are some of my team and individual projects. [(details)](https://celi23.github.io/Portfolio/individualprojects)
 
@@ -52,38 +85,7 @@ Designed a website called AllAboutPC that allows user login, a backend database 
 
 This picture shows the main page for the website. Each tab on the page leads you to different page that contains animetion that details each component of a PC. Unfortunately this website was created on a local network and is not published on the internet. A demonstration of the website can be found [here](https://www.youtube.com/watch?v=Fm7WJDabT0c&ab_channel=CeciliaLi).
 
-# Clinic Projects 
-These projects are clinic projects done in collaboration with cooporate companies. [(details)](https://celi23.github.io/Portfolio/clinicprojects)
 
-#### Project Pyramid:
-This project focuses on the automation of the production of the products. The team explored new and existing ideas of automation and aimed to produce an automated manufacturing system. The team also helped using alternative solutions to reduce water on the production line. I focused on producing new ideas on automation, and construction low resolution prototypes for automation systems. I worked on designing and constructing a fluidized bed for the production line.
-
-<div style="text-align: center">
-  <img src="./assets/img/projectp.jpg" alt="logo" height="200" />
-</div>
-
-Above is the logo for the project. Unfortunately, because of NDA reasons, the company is undisclosed to the public.
-
-#### Ultra-High Vacuum Inspection Wafer:
-In this project, I lead and managed the team with logistics such as budgeting, team dynamic, and work progression in the latter half of the project. We utilized Bluetooth Low Energy nimble server and client protocol to send data in short distances. The team engaged in full system design, connecting and integrating subsystems using microcontroller, temperature sensors, and several cameras.
-
-<div style="text-align: center">
-  <img src="./assets/img/appliedmateriallogo.jpg" alt="logo" height="200" />
-</div>
-
-Working with Applied Materials, the team was able to experience industry working environment. We presented our prototype to our school and our liaisons. 
-
-# Lab Research Projects 
-These are projects I participated with preisting labs. [(details)](https://celi23.github.io/Portfolio/labprojects)
-
-#### GSG friction data analyzation:
-In this lab, I worked with a new substance called Gas Phase Synthesized Graphene using tribometer to observe its wear reducing effects along with PAO (Polyalphaolefin). I used ImageJ and Python to process and analyze images of the substance to correlate with experimental results of wear volume and frictional force.
-
-<div style="text-align: center">
-  <img src="./assets/img/krauss.jpg" alt="logo" height="200" />
-</div>
-
-The image above shows how the image of the GSG seperated with PAO is processed with ImageJ. It is able to count the amount of clumbs seen from the picture taken. This allows us to quantify the seperation and effetively test seperation of GSG and PAO over time. 
 
 #### Water filtration system research and design:
 In this lab, I first understood the project by researching the financial and technical hardships with water filtration systems in the water industry. With that, I designed and simulated a Rapid Small Scale Column testing site with COMSOL with porous media study in a stationary and a time dependent model, created process router for this design. 
