@@ -5,9 +5,9 @@ author: "Cecilia Li -- li.cecilia23@gmail.com"
 theme: minima
 
 header-pages:
-  - individualprojects.html
-  - clinicprojects.html
-  - labprojects.html
+  # - individualprojects.html
+  # - clinicprojects.html
+  # - labprojects.html
   - resume.html
 
 # Configuration Options
