@@ -5,6 +5,8 @@ permalink: /underwaterrobot/
 exclude: true
 ---
 
+# Work in progress 
+
 The project focuses on creating a underwater robot that can detect depth using sonar. With that data, GPS, and thermistor, the team's goal was to produce a map of the ocean at deployment with its depth and temperature gradient. 
 
 The team first decided on the placement of each of the sensors. In order to measure the temprature gradient, one thermistor is emerged in water and another is supended in the air. For the sonar system, we expected a range of about 20 feet for the seafloor. Hence, the robot had a speaker that transmitted a sine wave down below with a 3D printed cone that directed the sound waves downwards. With that, a microphone needs to be equipted. It is offsetted by about 10cm from the speaker to avoid feedback. With that, a GPS module is attached to the top of the robot on the motherboard, allowing the robot to use locational and path information. 
@@ -33,7 +35,15 @@ The speaker circuit was built following the reference design in the LM384 datash
   <img src="../assets/img/LED.jpg" alt="logo" height="300" />
 </div>
 
-In the ending end of the system, a MATLAB script was used to generate the pulse. The audio input source was the digital to analog converter (DAC) on the Teensy. 
+In the sending end of the sonar system, a MATLAB script was used to generate the pulse. The audio input source was the digital to analog converter (DAC) on the Teensy. 
+
+In the recieving end of the sonar system, a amplifier chain consisting of 3 op-amps was designed to provide up to 100dB of variable gain from the microphone. The bottom of the ocean can be muddy and uneven, so huge amounts of gain is implemented in order to read the signal clearly. The schamatic of recieving end is shown below. 
+
+<div style="text-align: center">
+  <img src="../assets/img/LED.jpg" alt="logo" height="300" />
+</div>
+
+### Mechanical Design
 
 
 More specific numbers and results are shown[here](https://drive.google.com/file/d/11uuXs4T48eU59VO8Ra9-wTbZR-kKCBl_/view?usp=sharing).
