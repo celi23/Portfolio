@@ -4,4 +4,4 @@ title: Resume
 permalink: /resume/
 ---
 
-You can find my resume as a pdf [here](https://drive.google.com/file/d/1NyGHJEmZv3kijOHw8AQ1yj5DQPglmFeT/view?usp=sharing).
+You can find my resume as a pdf [here](https://drive.google.com/file/d/1VAbz-EOhHSUE_Ial9hPKGL2kNBGLenyE/view?usp=sharing).
