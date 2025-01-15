@@ -46,6 +46,6 @@ In the recieving end of the sonar system, a amplifier chain consisting of 3 op-a
 ### Mechanical Design
 
 
-More specific numbers and results are shown[here](https://drive.google.com/file/d/11uuXs4T48eU59VO8Ra9-wTbZR-kKCBl_/view?usp=sharing).
+More specific numbers and results are shown [here](https://drive.google.com/file/d/11uuXs4T48eU59VO8Ra9-wTbZR-kKCBl_/view?usp=sharing).
 
 Credits to my teammate: Marcos Ng Carrion, Alec Vercruysse, and Ruby Foxall.

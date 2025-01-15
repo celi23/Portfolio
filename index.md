@@ -24,16 +24,10 @@ This is a project made with two other teammates in an effort to make an arcade g
 
 The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game! The team also created a website that contains all our documentation. [Check it out here!](https://martin5009.github.io/amazing_game)
 
-#### [Jacket Indicator](https://celi23.github.io/Portfolio/jacketindicator):
-Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the thermistor senses.
+#### Underwater Robot:
 
-<div style="text-align: center">
-  <img src="./assets/img/jacketIndicator.jpg" alt="logo" height="300" />
-</div>
+<!-- #### [Underwater Robot](https://celi23.github.io/Portfolio/underwaterrobot): -->
 
-As shown above, this project was done on a breadboard with enough schematic to incorporate into a protoboard.
-
-#### [Underwater Robot](https://celi23.github.io/Portfolio/underwaterrobot):
 With two other classmates, the team designed an underwater robot that uses sonar to detect the depth of the water below it. This robot also has  GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce data from real time deployment.
 
 <div style="text-align: center">
@@ -43,7 +37,10 @@ With two other classmates, the team designed an underwater robot that uses sonar
 
 This robot was deployed in Dana point, California and produced data from the deployment. Seen on the left, we were waiting for the GPS to lock looking at the ocean. The structure of the robot is seen on the right.
 
-#### [AllAboutPC](https://celi23.github.io/Portfolio/allaboutpc):
+#### AllAboutPC:
+
+<!-- #### [AllAboutPC](https://celi23.github.io/Portfolio/allaboutpc): -->
+
 Designed a website called AllAboutPC that allows user login, a backend database that contains user information. This website also provides a platform that allows users to ask other users questions about PC. Used and learned different web building techniques including React, HTML, and CSS.
 
 <div style="text-align: center">
@@ -52,6 +49,17 @@ Designed a website called AllAboutPC that allows user login, a backend database 
 
 This picture shows the main page for the website. Each tab on the page leads you to different page that contains animetion that details each component of a PC. Unfortunately this website was created on a local network and is not published on the internet. A demonstration of the website can be found [here](https://www.youtube.com/watch?v=Fm7WJDabT0c&ab_channel=CeciliaLi).
 
+#### Jacket Indicator:
+
+<!-- #### [Jacket Indicator](https://celi23.github.io/Portfolio/jacketindicator): -->
+
+Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the thermistor senses.
+
+<div style="text-align: center">
+  <img src="./assets/img/jacketIndicator.jpg" alt="logo" height="300" />
+</div>
+
+As shown above, this project was done on a breadboard with enough schematic to incorporate into a protoboard.
 
 # Clinic Projects 
 
