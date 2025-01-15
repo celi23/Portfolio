@@ -33,7 +33,7 @@ Designed and created a circuit that allows the user to see if the weather needs 
 
 As shown above, this project was done on a breadboard with enough schematic to incorporate into a protoboard.
 
-#### Underwater Robot:
+#### [Underwater Robot](https://celi23.github.io/Portfolio/underwaterrobot):
 With two other classmates, the team designed an underwater robot that uses sonar to detect the depth of the water below it. This robot also has  GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce data from real time deployment.
 
 <div style="text-align: center">
