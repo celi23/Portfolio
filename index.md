@@ -35,9 +35,9 @@ With two other classmates, the team designed an underwater robot that uses sonar
 
 This robot was deployed in Dana point, California and produced data from the deployment. Seen on the left, we were waiting for the GPS to lock looking at the ocean. The structure of the robot is seen on the right. [This paper](https://drive.google.com/file/d/11uuXs4T48eU59VO8Ra9-wTbZR-kKCBl_/view?usp=sharing) describes all the design and results from our deployment at Dana Point, CA. 
 
-#### AllAboutPC:
+<!-- #### AllAboutPC: -->
 
-<!-- #### [AllAboutPC](https://celi23.github.io/Portfolio/allaboutpc): -->
+#### [AllAboutPC](https://celi23.github.io/Portfolio/allaboutpc):
 
 Designed a website called AllAboutPC that allows user login, a backend database that contains user information. This website also provides a platform that allows users to ask other users questions about PC. Used and learned different web building techniques including React, HTML, and CSS.
 
