@@ -33,7 +33,7 @@ With two other classmates, the team designed an underwater robot that uses sonar
   <img src="./assets/img/robotstructure.jpg" alt="logo" height="200" />
 </div>
 
-This robot was deployed in Dana point, California and produced data from the deployment. Seen on the left, we were waiting for the GPS to lock looking at the ocean. The structure of the robot is seen on the right.
+This robot was deployed in Dana point, California and produced data from the deployment. Seen on the left, we were waiting for the GPS to lock looking at the ocean. The structure of the robot is seen on the right. [This paper](https://drive.google.com/file/d/11uuXs4T48eU59VO8Ra9-wTbZR-kKCBl_/view?usp=sharing) describes all the design and results from our deployment at Dana Point, CA. 
 
 #### AllAboutPC:
 
