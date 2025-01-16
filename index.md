@@ -24,9 +24,9 @@ This is a project made with two other teammates in an effort to make an arcade g
 
 The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game! The team also created a website that contains all our documentation. [Check it out here!](https://martin5009.github.io/amazing_game)
 
-#### Underwater Robot:
+<!-- #### Underwater Robot: -->
 
-<!-- #### [Underwater Robot](https://celi23.github.io/Portfolio/underwaterrobot): -->
+#### [Underwater Robot](https://celi23.github.io/Portfolio/underwaterrobot):
 
 With two other classmates, the team designed an underwater robot that uses sonar to detect the depth of the water below it. This robot also has  GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce data from real time deployment.
 
