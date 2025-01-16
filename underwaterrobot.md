@@ -55,12 +55,14 @@ The second layer, which is submerged, has the audio exciter, the microphone, a s
   <img src="../assets/img/water/mechleft.png" alt="logo" height="300" />
 </div>
 
-## Results from deployment
+## Results From Deployment
+
+This robot was deployed in Dana Point, CA on 5/13/2022. 
 
 Due to a cold joint on the grund header pin on the GPS module, very limited locational data is collected, shown below. However, the location logged closely align with the robot's true location.
 
 <div style="text-align: center">
-  <img src="../assets/img/water/log020_pon.png" alt="logo" height="300" />
+  <img src="../assets/img/water/log030_pos.png" alt="logo" height="300" />
 </div>
 
 Dispite the loss of locational data, some temperature data was retrieved from the deployment. After calibrating the data from voltage to fahrenheit, we discovered the temperature data was unstable. The graph of the data versus time is shown below. 
