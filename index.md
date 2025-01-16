@@ -24,8 +24,6 @@ This is a project made with two other teammates in an effort to make an arcade g
 
 The game is mounted onto a arcade machine wodden model, where the user can use the nunchuck to play comfortablly, like a real arcade game! The team also created a website that contains all our documentation. [Check it out here!](https://martin5009.github.io/amazing_game)
 
-<!-- #### Underwater Robot: -->
-
 #### [Underwater Robot](https://celi23.github.io/Portfolio/underwaterrobot):
 
 With two other classmates, the team designed an underwater robot that uses sonar to detect the depth of the water below it. This robot also has  GPS and thermistors to determine its position and temperature gradient of the sea water. The team also constructed a circuit board with operational amplifiers to buffer and filter the signal sensed from the sensors to produce data from real time deployment.
@@ -59,7 +57,7 @@ Designed and created a circuit that allows the user to see if the weather needs 
   <img src="./assets/img/jacketIndicator.jpg" alt="logo" height="300" />
 </div>
 
-As shown above, this project was done on a breadboard with enough schematic to incorporate into a protoboard.
+As shown above, this project was done on a breadboard with enough schematic to incorporate into a protoboard. It works as expected on the breadborad. You can see it in action [here](https://www.youtube.com/watch?v=NSoUq3j5nXU&ab_channel=CeciliaLi).
 
 # Clinic Projects 
 
