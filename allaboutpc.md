@@ -15,7 +15,7 @@ Below shows the title page.
   <img src="../assets/img/AllAboutPC/Capture.PNG" alt="logo" height="300" />
 </div>
 
-</br>
+<hr>
 
 Below shows the overview of a PC.
 
@@ -23,7 +23,7 @@ Below shows the overview of a PC.
   <img src="../assets/img/AllAboutPC/Capture2.PNG" alt="logo" height="300" />
 </div>
 
-</br>
+<hr>
 
 Below shows the componensts of a PC. 
 
@@ -31,7 +31,7 @@ Below shows the componensts of a PC.
   <img src="../assets/img/AllAboutPC/Capture1.PNG" alt="logo" height="300" />
 </div>
 
-</br>
+<hr>
 
 Once clicked into a category, the page below shows. This allows the user to ask question or answer questions from other users.
 
@@ -39,7 +39,7 @@ Once clicked into a category, the page below shows. This allows the user to ask 
   <img src="../assets/img/AllAboutPC/Capture5.PNG" alt="logo" height="300" />
 </div>
 
-</br>
+<hr>
 
 Below shows the contact us page, where the user is able to send in emails for feedback of the website.
 
@@ -48,7 +48,7 @@ Below shows the contact us page, where the user is able to send in emails for fe
   <img src="../assets/img/AllAboutPC/Capture0.PNG" alt="logo" height="300" />
 </div>
 
-</br>
+<hr>
 
 Lastly, there is a user log in system that allows users to create account or sign in to accounts. This is saved in the local server.
 
@@ -56,7 +56,7 @@ Lastly, there is a user log in system that allows users to create account or sig
   <img src="../assets/img/AllAboutPC/Capture3.PNG" alt="logo" height="300" />
 </div>
 
-</br>
+<hr>
 
 Below is a video I made about this website!
 
