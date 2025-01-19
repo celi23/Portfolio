@@ -47,9 +47,9 @@ Designed a website called AllAboutPC that allows user login, a backend database 
 
 This picture shows the main page for the website. Each tab on the page leads you to different page that contains animetion that details each component of a PC. Unfortunately this website was created on a local network and is not published on the internet. A demonstration of the website can be found [here](https://www.youtube.com/watch?v=Fm7WJDabT0c&ab_channel=CeciliaLi).
 
-#### Jacket Indicator:
+<!-- #### Jacket Indicator: -->
 
-<!-- #### [Jacket Indicator](https://celi23.github.io/Portfolio/jacketindicator): -->
+#### [Jacket Indicator](https://celi23.github.io/Portfolio/jacketindicator):
 
 Designed and created a circuit that allows the user to see if the weather needs a jacket or not. Using operational amplifiers as comparators, we successfully created a LED array that can light up according to different temperatures the thermistor senses.
 
