@@ -12,6 +12,7 @@ Below shows the projects I have worked on. You can click on some of the project 
 Contact me! My email is: li.cecilia23@gmail.com. My phone number is: 9097609304.
 
 # Team and Individual Projects
+<hr>
 Below are some of my team and individual projects.
 
 #### [A-Mazing Game](https://celi23.github.io/Portfolio/amazinggame):
@@ -60,7 +61,7 @@ Designed and created a circuit that allows the user to see if the weather needs 
 As shown above, this project was done on a breadboard with enough schematic to incorporate into a protoboard. It works as expected on the breadborad. You can see it in action [here](https://www.youtube.com/watch?v=NSoUq3j5nXU&ab_channel=CeciliaLi).
 
 # Clinic Projects 
-
+<hr>
 These projects are clinic projects done in collaboration with cooporate companies.
 
 #### Project Pyramid:
@@ -82,6 +83,7 @@ In this project, I lead and managed the team with logistics such as budgeting, t
 Working with Applied Materials, the team was able to experience industry working environment. We presented our prototype to our school and our liaisons. 
 
 # Lab Research Projects 
+<hr>
 These are projects I participated with preisting labs.
 
 #### GSG friction data analyzation:
@@ -92,7 +94,6 @@ In this lab, I worked with a new substance called Gas Phase Synthesized Graphene
 </div>
 
 The image above shows how the image of the GSG seperated with PAO is processed with ImageJ. It is able to count the amount of clumbs seen from the picture taken. This allows us to quantify the seperation and effetively test seperation of GSG and PAO over time. 
-
 
 #### Water filtration system research and design:
 In this lab, I first understood the project by researching the financial and technical hardships with water filtration systems in the water industry. With that, I designed and simulated a Rapid Small Scale Column testing site with COMSOL with porous media study in a stationary and a time dependent model, created process router for this design. 
